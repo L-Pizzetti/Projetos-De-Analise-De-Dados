@@ -1,2 +1,5 @@
 # Projetos de Análise de Dados
-Repositório de projetos de Análise de Dados. Os projetos disponibilizados aqui são acompanhados por relatórios detalhados que estão disponíveis no seguinte site: leonardopizzetti.me
+
+Neste repositório, apresento alguns dos projetos pessoais de análise e ciência de dados que realizei. Os projetos disponibilizados neste repositório são acompanhados por relatórios detalhados que estão, também, disponíveis no seguinte site: https://www.leonardopizzetti.me/
+
+Cumpre ressaltar que os dados utilizados nesses projetos provêm de fontes disponíveis na internet.
